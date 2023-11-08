@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Component.WelcomeActivity"
+    android:background="#45B39D"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/aref_ruqaa"
+        android:textStyle="bold"
+        android:text="Khách sạn"
+        android:textColor="#F1C40F"
+        android:textSize="35sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/aref_ruqaa"
+        android:textStyle="bold"
+        android:text="Continental"
+        android:textColor="#F1C40F"
+        android:textSize="25sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/aref_ruqaa"
+        android:textStyle="bold"
+        android:text="Xin chào!"
+        android:textColor="#F1C40F"
+        android:textSize="35sp"
+        android:layout_marginTop="200dp"/>
+</LinearLayout>
