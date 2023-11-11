@@ -22,7 +22,6 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-
             android:hint="nhập tên khách hàng"
             android:id="@+id/b_addKH"/>
     </com.google.android.material.textfield.TextInputLayout>
