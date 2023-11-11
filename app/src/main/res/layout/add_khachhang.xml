@@ -10,7 +10,6 @@
         android:layout_height="90dp"
         android:background="#20C1C1"
         android:text="Thêm khách hàng"
-
         android:gravity="center"
         android:textSize="30dp"
         android:textColor="@color/black" />
