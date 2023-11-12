@@ -9,6 +9,7 @@
         android:layout_width="340dp"
         android:layout_height="90dp"
         android:background="#20C1C1"
+
         android:text="THÊM KHÁCH HÀNG"
         android:gravity="center"
         android:textSize="30dp"
